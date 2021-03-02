@@ -1,0 +1,31 @@
+C:\Users\veillerguise\AppData\Local\Temporary Projects\Streamline\bin\Debug\Streamline.exe
+C:\Users\veillerguise\AppData\Local\Temporary Projects\Streamline\bin\Debug\Streamline.pdb
+C:\Users\veillerguise\AppData\Local\Temporary Projects\Streamline\bin\Debug\Streamline.xml
+C:\Users\veillerguise\AppData\Local\Temporary Projects\Streamline\obj\x86\Debug\Streamline.frmStreamline.resources
+C:\Users\veillerguise\AppData\Local\Temporary Projects\Streamline\obj\x86\Debug\Streamline.Resources.resources
+C:\Users\veillerguise\AppData\Local\Temporary Projects\Streamline\obj\x86\Debug\Streamline.vbproj.GenerateResource.Cache
+C:\Users\veillerguise\AppData\Local\Temporary Projects\Streamline\obj\x86\Debug\Streamline.exe
+C:\Users\veillerguise\AppData\Local\Temporary Projects\Streamline\obj\x86\Debug\Streamline.xml
+C:\Users\veillerguise\AppData\Local\Temporary Projects\Streamline\obj\x86\Debug\Streamline.pdb
+C:\Users\veillerguise\AppData\Local\Temporary Projects\Streamline\obj\x86\Debug\Streamline.frmAbout.resources
+C:\Users\veillerguise\documents\visual studio 2010\Projects\Streamline\Streamline\obj\x86\Debug\Streamline.exe
+C:\Users\veillerguise\documents\visual studio 2010\Projects\Streamline\Streamline\obj\x86\Debug\Streamline.xml
+C:\Users\veillerguise\documents\visual studio 2010\Projects\Streamline\Streamline\obj\x86\Debug\Streamline.pdb
+C:\Users\veillerguise\documents\visual studio 2010\Projects\Streamline\Streamline\bin\Debug\Streamline.exe
+C:\Users\veillerguise\documents\visual studio 2010\Projects\Streamline\Streamline\bin\Debug\Streamline.pdb
+C:\Users\veillerguise\documents\visual studio 2010\Projects\Streamline\Streamline\bin\Debug\Streamline.xml
+C:\Users\veillerguise\documents\visual studio 2010\Projects\Streamline\Streamline\obj\x86\Debug\Streamline.frmAbout.resources
+C:\Users\veillerguise\documents\visual studio 2010\Projects\Streamline\Streamline\obj\x86\Debug\Streamline.frmStreamline.resources
+C:\Users\veillerguise\documents\visual studio 2010\Projects\Streamline\Streamline\obj\x86\Debug\Streamline.Resources.resources
+C:\Users\veillerguise\documents\visual studio 2010\Projects\Streamline\Streamline\obj\x86\Debug\Streamline.vbproj.GenerateResource.Cache
+C:\Users\veillerguise\Desktop\Streamline\Streamline\Streamline\obj\x86\Debug\Streamline.exe
+C:\Users\veillerguise\Desktop\Streamline\Streamline\Streamline\obj\x86\Debug\Streamline.xml
+C:\Users\veillerguise\Desktop\Streamline\Streamline\Streamline\obj\x86\Debug\Streamline.pdb
+C:\Users\veillerguise\Desktop\Streamline\Streamline\Streamline\bin\Debug\Streamline.exe
+C:\Users\veillerguise\Desktop\Streamline\Streamline\Streamline\bin\Debug\Streamline.pdb
+C:\Users\veillerguise\Desktop\Streamline\Streamline\Streamline\bin\Debug\Streamline.xml
+C:\Users\veillerguise\Desktop\Streamline\Streamline\Streamline\obj\x86\Debug\Streamline.frmAbout.resources
+C:\Users\veillerguise\Desktop\Streamline\Streamline\Streamline\obj\x86\Debug\Streamline.frmStreamline.resources
+C:\Users\veillerguise\Desktop\Streamline\Streamline\Streamline\obj\x86\Debug\Streamline.Resources.resources
+C:\Users\veillerguise\Desktop\Streamline\Streamline\Streamline\obj\x86\Debug\Streamline.vbproj.GenerateResource.Cache
+C:\Users\veillerguise\Desktop\Streamline\Streamline\Streamline\obj\x86\Debug\Streamline.frmSites.resources
